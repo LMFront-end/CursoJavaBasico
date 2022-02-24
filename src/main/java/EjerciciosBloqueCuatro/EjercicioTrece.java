@@ -46,5 +46,7 @@ public class EjercicioTrece {
             media_neg = (float) suma_neg/conteo_neg;
             System.out.println("La media de los negativos es igual a " + media_neg);
         }
+
+        System.out.println("la cantidad de ceros es " + conteo_cero);
     }
 }
